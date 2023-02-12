@@ -8,3 +8,4 @@
 8. Una vez horneada, cortar la pizza en rebanadas.
 9. Empaquetar la pizza en una caja de cartón, para mantenerla caliente.
 10. Entregar la pizza (llevarla, si es a domicilio).
+11. Cobrar la pizza.
